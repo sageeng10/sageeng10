@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm sageeng10 
 
-<!--
-**sageeng10/sageeng10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Paris. Mostly focused on backend systems, developer tooling, and contributing to open-source projects.
 
-Here are some ideas to get you started:
+#### What I'm working on:
+- Writing CLI tools and services in Go and Python
+- Tinkering with web stuff in JavaScript
+- Container workflows and automation with Docker
+- Maintaining a minimal Neovim setup that rarely stays minimal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools & Stack:
+Go · Python · JavaScript · Docker · Neovim · Linux · Git
+
+#### Connect:
+- Open an issue or PR on any of my public repos
+- Email: sageeng10@proton.me
